@@ -1,0 +1,14 @@
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\bin\Debug\net8.0\PrimeiroProgramaEmC#.exe
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\bin\Debug\net8.0\PrimeiroProgramaEmC#.deps.json
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\bin\Debug\net8.0\PrimeiroProgramaEmC#.runtimeconfig.json
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\bin\Debug\net8.0\PrimeiroProgramaEmC#.dll
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\bin\Debug\net8.0\PrimeiroProgramaEmC#.pdb
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.AssemblyInfoInputs.cache
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.AssemblyInfo.cs
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.csproj.CoreCompileInputs.cache
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.dll
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\refint\PrimeiroProgramaEmC#.dll
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.pdb
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\PrimeiroProgramaEmC#.genruntimeconfig.cache
+C:\Users\evand\OneDrive\Programação\Cursos\CursoC#\PrimeiroProgramaEmC#\PrimeiroProgramaEmC#\obj\Debug\net8.0\ref\PrimeiroProgramaEmC#.dll
