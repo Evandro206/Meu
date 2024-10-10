@@ -5,6 +5,9 @@
 #define TAM 100
 char str[TAM];
 
+// Namespace usado para remover o std antes de alguns códigos
+using namespace std;
+
 void inverterString(char str[TAM]) { // Função responsável por inverter a String
     char a;
     int i = strlen(str) - 1; // Define i
@@ -40,16 +43,16 @@ bool funcaoPalindromo(char str[TAM]) { // Função para verificar se a palavra �
 
 int main() {
     do {
-        std::cout << "Digite uma palavra de até " << TAM << " letras:\n"; // Solicitar a palavra a ser invertida
-        std::cin.getline(str, TAM);
+        cout << "Digite uma palavra de até " << TAM << " letras:\n"; // Solicitar a palavra a ser invertida
+        cin.getline(str, TAM);
 
         if (strlen(str) > (TAM - 1)) { // Verificação se o número de letras está correto
-            std::cout << "A palavra deve ter no máximo " << TAM << " letras!\n";
+            cout << "A palavra deve ter no máximo " << TAM << " letras!\n";
         }
         if (funcaoPalindromo(str)) { // Chama função e exibe o resultado
-            std::cout << "A palavra é palíndroma\n";
+            cout << "A palavra é palíndroma\n";
         } else {
-            std::cout << "A palavra não é palíndroma\n";
+            cout << "A palavra não é palíndroma\n";
         }
     } while (strlen(str) > (TAM - 1));
     return 0;
