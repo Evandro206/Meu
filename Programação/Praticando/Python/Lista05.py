@@ -11,7 +11,7 @@ for i in range(20):
     else:
         vetor_impar.append(vetor[i])
 
-print(f"Vetor completo: {vetor} \n Impares: {vetor_impar} \n Pares: {vetor_par} ")
+print(f"Vetor completo: {vetor} \nImpares: {vetor_impar} \nPares: {vetor_par} ")
 
 # Resolução 02
 numeros = []
